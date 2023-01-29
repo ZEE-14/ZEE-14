@@ -1,4 +1,7 @@
 <h1>Hi, I'm Zeeshan!
+  
+<h2> 🏫 Cybersecurity learning journey:</h2>
+  This section of the page shows my learning journey of getting into cybersecurity
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
