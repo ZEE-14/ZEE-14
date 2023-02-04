@@ -1,5 +1,5 @@
-<h1>Hi, I'm Zeeshan!
-  <h2> I am an asprining cybersecurity professional!</h2>
+<h1>Hi, I'm Zeeshan!</h1>
+  I am an asprining cybersecurity professional, on la learning journey, documenting my projects that I have worked on and working on to developing my skills!
   
 <h2> 🏫 Cybersecurity learning journey:</h2>
   This section of the page shows my learning journey of getting into cybersecurity
