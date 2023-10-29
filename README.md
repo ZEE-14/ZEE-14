@@ -6,7 +6,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Azure Sentinel SIEM](https://github.com/Zeeshan-Fraz/Azure-Sentinel-Home-Lab/tree/main)
+  - [Azure Sentinel SIEM Honeypot Lab](https://github.com/Zeeshan-Fraz/Azure-Sentinel-Home-Lab/tree/main)
 
 <h2>📺 Popular YouTube Videos</h2>
 
