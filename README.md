@@ -1,5 +1,7 @@
 <h1>Hi, I'm Zeeshan!</h1>
   I am an asprining cybersecurity professional, on la learning journey, documenting my projects that I have worked on and working on to developing my skills!
+
+  I am intersted in blue team in cybersecurity (Security Operations Centre) and learning more about how to responding to incidents and protecting assets and users from threat actors.
   
 <h2> 🏫 Cybersecurity learning journey:</h2>
 
